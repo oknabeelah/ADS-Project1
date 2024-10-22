@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Project1ADS\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Github\\ADS-Project1\\Project1ADS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19E1E5F8-33FF-47CB-AFDF-1BCA4BDEC506}|Project1ADS.csproj|c:\\users\\admin\\desktop\\project1ads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{19E1E5F8-33FF-47CB-AFDF-1BCA4BDEC506}|Project1ADS.csproj|c:\\users\\admin\\desktop\\github\\ads-project1\\project1ads\\altprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E1E5F8-33FF-47CB-AFDF-1BCA4BDEC506}|Project1ADS.csproj|solutionrelative:altprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E1E5F8-33FF-47CB-AFDF-1BCA4BDEC506}|Project1ADS.csproj|c:\\users\\admin\\desktop\\github\\ads-project1\\project1ads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19E1E5F8-33FF-47CB-AFDF-1BCA4BDEC506}|Project1ADS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AltProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Github\\ADS-Project1\\Project1ADS\\AltProgram.cs",
+              "RelativeDocumentMoniker": "AltProgram.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Github\\ADS-Project1\\Project1ADS\\AltProgram.cs",
+              "RelativeToolTip": "AltProgram.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:20:37.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Project1ADS\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Github\\ADS-Project1\\Project1ADS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Project1ADS\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Github\\ADS-Project1\\Project1ADS\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:16:49.504Z",
               "EditorCaption": ""
