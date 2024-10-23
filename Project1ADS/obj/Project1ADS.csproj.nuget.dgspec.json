@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Project1ADS\\Project1ADS.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Github\\ADS-Project1\\Project1ADS\\Project1ADS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Project1ADS\\Project1ADS.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Github\\ADS-Project1\\Project1ADS\\Project1ADS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Project1ADS\\Project1ADS.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Github\\ADS-Project1\\Project1ADS\\Project1ADS.csproj",
         "projectName": "Project1ADS",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Project1ADS\\Project1ADS.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Github\\ADS-Project1\\Project1ADS\\Project1ADS.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Project1ADS\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Github\\ADS-Project1\\Project1ADS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
